@@ -1,0 +1,193 @@
+{
+  "name": {
+    "fr": "Je suis Ony Andrihanina Rabenjarijaona",
+    "en": "I am Ony Andrihanina Rabenjarijaona"
+  },
+  "description1": {
+    "fr": "Concepteur et développeur",
+    "en": "Designer and Developer"
+  },
+  "description1suite": {
+    "fr": "d'applications numériques",
+    "en": "of Digital Applications"
+  },
+  "description2": {
+    "fr": "Développeur PHP/Symfony",
+    "en": "PHP/Symfony Developer"
+  },
+  "description3": {
+    "fr": "Développeur Web",
+    "en": "Web Developer"
+  },
+  "home": {
+    "fr": "INTRO",
+    "en": "INTRO"
+  },
+  "skill": {
+    "fr": "COMPETENCES",
+    "en": "SKILLS"
+  },
+  "service": {
+    "fr": "SERVICES",
+    "en": "SERVICES"
+  },
+  "aboutme": {
+    "fr": "A-PROPOS",
+    "en": "ABOUT ME"
+  },
+  "aboutMe": {
+    "fr": "A propos de moi",
+    "en": "About me"
+  },
+  "hi": {
+    "fr": "Bonjour",
+    "en": "Hi There"
+  },"text1": {
+    "fr": "Je suis un concepteur et développeur d'applications numériques passionné par le développement web. Mon objectif est d'exceller dans mon domaine en acquérant toutes les compétences nécessaires pour créer des applications innovantes et engageantes. Ma soif d'apprentissage, ma curiosité insatiable et ma volonté d'explorer de nouvelles opportunités sont les moteurs qui guident mon parcours professionnel.",
+    "en": "I am a designer and developer of digital applications with a passion for web development. I strive to become the best in my field, determined to master all the necessary skills to create innovative and engaging applications. My thirst for learning, insatiable curiosity, and openness to new opportunities are the driving forces behind my journey."
+  },
+  "text2": {
+    "fr": "Fort de mon enthousiasme et de ma détermination, j'apprécie particulièrement collaborer au sein d'équipes dynamiques afin de concevoir des applications exceptionnelles. En dehors de mon travail, vous me trouverez probablement devant mon ordinateur à regarder des dessins animés, des mangas ou à jouer à des jeux vidéo, ou bien chez mon chorale où je pratique ma passion pour le chant.",
+    "en": "Fueled by my enthusiasm and determination, I enjoy collaborating within dynamic teams to create exceptional applications. Outside of this field, you will likely find me in front of my computer watching anime, reading manga, or playing video games, or at my choir practicing singing."
+  },
+  "text3": {
+    "fr": "Actuellement ouvert à de nouvelles opportunités et collaborations, je vous invite à me contacter pour discuter d'éventuelles collaborations.",
+    "en": "I am currently open to new opportunities and collaborations. Feel free to contact me to discuss potential collaborations."
+  },
+  "contactMe": {
+    "fr": "Contactez-moi",
+    "en": "Contact me"
+  },
+  "downloadCv": {
+    "fr": "Télécharger CV",
+    "en": "Download CV"
+  },
+  "letswork": {
+    "fr": "Besoin d'un développeur fiable et de qualité?",
+    "en": "Need a reliable and quality developer?"
+  },
+  "nameContact": {
+    "fr": "Nom",
+    "en": "Name"
+  },
+  "phone": {
+    "fr": "Téléphone",
+    "en": "Phone"
+  },
+  "hireMe": {
+    "fr": "Je suis disponible",
+    "en": "I'm available"
+  },
+  "myskills": {
+    "fr": "Mes compétences",
+    "en": "My skills"
+  },
+  "everyday": {
+    "fr": "Chaque Jour est un Nouveau Défi",
+    "en": "Every Day is a  New Challenge"
+  },
+  "everydayP1": {
+    "fr": "Chaque jour est une opportunité de relever de nouveaux défis et d'explorer les dernières avancées dans le domaine numérique.",
+    "en": "Every day is an opportunity to take on new challenges and explore the latest advancements in the digital field."
+  },
+  "everydayP2": {
+    "fr": "Dans le domaine numérique, chaque journée apporte son lot de défis stimulants, offrant ainsi une chance continue d'apprendre et de progresser.",
+    "en":  "In the digital domain, each day brings its share of stimulating challenges, thus providing a continuous opportunity to learn and grow."
+  },
+  "getintouch": {
+    "fr": "Prenez Contact",
+    "en": "Get In Touch"
+  },
+  "adress": {
+    "fr": "Adresse",
+    "en": "Address"
+  },
+  "letsconnect": {
+    "fr": "Connectons-nous",
+    "en": "Let’s Connect"
+  },
+  "sendme": {
+    "fr": "Envoyez-Moi un Message",
+    "en": "Send Me a Message"
+  },
+  "subjet": {
+    "fr": "Objet",
+    "en": "Subject"
+  },
+  "sendAm": {
+    "fr": "Envoyer un Message",
+    "en": "Send a Message"
+  },
+  "work": {
+    "fr": "Travail",
+    "en": "Work"
+  },
+  "readmore": {
+    "fr": "Lire la Suite",
+    "en": "Read More"
+  },
+  "dechetstatut": {
+    "fr": "Conception et réalisation d’une Application encourageant l’économie circulaire de déchets.",
+    "en": "Conception and implementation of an Application promoting the circular economy of waste."
+  },
+  "devDnet": {
+    "fr": "Développeur .Net",
+    "en": ".Net Developper"
+  },
+  "dnetStatut": {
+    "fr": "Conception et réalisation d’une Application gérant les abonnés d’une compagnie de distribution d’énergie renouvelable.",
+    "en": "Design and implementation of an application managing subscribers for a renewable energy distribution company."
+  },
+  "devSym": {
+    "fr": "Développeur PHP/Symfony",
+    "en": "PHP/Symfony Developer"
+  },
+  "devsymStatut": {
+    "fr": "Conception et développement d’un site web de vente en ligne de la société Soa Irina.",
+    "en": "Design and development of an online sales website for the company Soa Irina."
+  },
+  "devPhp": {
+    "fr": "Développeur PHP",
+    "en": "PHP Developer"
+  },
+  "devPhpStatut": {
+    "fr": "Conception et développement d'une application de gestion scolaire.",
+    "en": "Design and development of a school management application."
+  },
+  "recent": {
+    "fr": "Projets récents",
+    "en": "Recent Projects"
+  },
+  "techno": {
+    "fr": "Technologies Utilisées",
+    "en": "Technologies Used"
+  },
+  "gestiondE": {
+    "fr": "Gestion Scolaire",
+    "en": "School Management"
+  },
+  "need": {
+    "fr": "Voici quelques-unes de mes œuvres sélectionnées que j'ai réalisées récemment. Ne hésitez pas à Vérifie-les.",
+    "en": "Here are some of my selected works that I have recently completed. Feel free to check them out."
+  },
+  "readmorewebdev": {
+    "fr": "L'outil ultime pour transformer la manière dont nous percevons et gérons les déchets. Notre application est conçue pour créer un écosystème où les producteurs, les collecteurs et les recycleurs se rejoignent pour créer un avenir plus propre, plus vert et plus durable.",
+    "en": "The ultimate tool to transform the way we perceive and manage waste. Our application is designed to create an ecosystem where producers, collectors, and recyclers come together to create a cleaner, greener, and more sustainable future."
+  },
+  "readmoreSym": {
+    "fr": "Votre destination pour la mode tendance et les dernières tendances en matière de vêtements. Découvrez notre vaste sélection de vêtements pour hommes, femmes et enfants, conçus pour vous aider à exprimer votre style unique.",
+    "en": "Your destination for trendy fashion and the latest clothing trends. Explore our wide selection of clothing for men, women, and children, designed to help you express your unique style."
+  },
+  "code": {
+    "fr": "Voir le code source",
+    "en": "See the source code"
+  },
+  "messageEnvoye": {
+    "fr": "Votre message a été envoyé avec succès !",
+    "en": "Your message has been successfully sent!"
+  },
+  "charge": {
+    "fr": "Chargement...",
+    "en": "Loading..."
+  }
+}
